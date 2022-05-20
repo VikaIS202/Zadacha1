@@ -1,0 +1,10 @@
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\bin\Debug\Задача 1.exe.config
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\bin\Debug\Задача 1.exe
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\bin\Debug\Задача 1.pdb
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\obj\Debug\Задача 1.csproj.AssemblyReference.cache
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\obj\Debug\Задача_1.Form1.resources
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\obj\Debug\Задача_1.Properties.Resources.resources
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\obj\Debug\Задача 1.csproj.GenerateResource.cache
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\obj\Debug\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\obj\Debug\Задача 1.exe
+C:\Users\vikad\OneDrive\Рабочий стол\Задача 1\obj\Debug\Задача 1.pdb
